@@ -5,6 +5,7 @@ class Solution {
         ArrayList<Character> longestSubStr = new ArrayList<>();
         int sequenceCount = 0;
         boolean haveRecurring = false;
+        // For strings with one character only
         if(s.length() == 1){
             return 1;
         }
@@ -27,9 +28,11 @@ class Solution {
                 longestSubStr.add(target);
             }
         }
+        // For special cases like "aab"
         if(longestSubStr.size() > sequenceCount){
             sequenceCount = longestSubStr.size();
         }
+        // Set a flag for s where all characters are unique E.g. "au"
         if(!haveRecurring){
             return longestSubStr.size();
         }
