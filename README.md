@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0066-plus-one) |
 ## Two Pointers
@@ -17,4 +18,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
