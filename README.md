@@ -17,9 +17,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/JunHao-k/Leetcode-Portfolio/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
